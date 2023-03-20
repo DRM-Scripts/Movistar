@@ -10,7 +10,7 @@ apt install git
 cd /home
 wget https://github.com/DRM-Scripts/Movistar/wvtohls.zip
 unzip wvtohls.zip
-cd /wvtohls/scripts && chmod 777 * && ./setup.sh && ./start_clean.sh && cd /home && chmod 777 -R *
+cd wvtohls/scripts && chmod 777 * && ./setup.sh && ./start_clean.sh && cd /home && chmod 777 -R *
 ```
 
 ### PANEL HOME
